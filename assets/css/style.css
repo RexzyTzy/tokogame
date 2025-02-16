@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.product {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+    text-align: center;
+}
+.product img {
+    width: 100px;
+    height: 100px;
+}
+.btn {
+    display: inline-block;
+    background: #28a745;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
